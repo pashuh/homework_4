@@ -1,6 +1,4 @@
-import static java.lang.Math.random;
-
-public class homework_4 {
+public class Homework_4 {
     public static void main(String[] args) {
         byte b0 = (byte) (Byte.MAX_VALUE + 1);
         System.out.println(b0 + " = Max_byte + 1");
@@ -35,5 +33,9 @@ public class homework_4 {
         if (arr0[7] < 9) {
             System.out.println("arr[7] меньше 9");
         }
+
+        String st0 = "Привет";
+        char ch0 = '!';
+        System.out.println(st0 + ch0);
     }
 }
