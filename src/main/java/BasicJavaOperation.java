@@ -1,4 +1,4 @@
-public class Homework_4 {
+public class BasicJavaOperation {
     public static void main(String[] args) {
         byte b0 = (byte) (Byte.MAX_VALUE + 1);
         System.out.println(b0 + " = Max_byte + 1");
